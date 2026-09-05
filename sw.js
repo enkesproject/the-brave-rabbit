@@ -1,4 +1,4 @@
-const CACHE_NAME = "kelinci-pemberani-v1";
+const CACHE_NAME = "kelinci-pemberani-v5";
 const CORE_ASSETS = [
   "./",
   "./index.html",
