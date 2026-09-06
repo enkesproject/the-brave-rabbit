@@ -1,6 +1,0 @@
-opsi sendiri = {
-    "domain": "3nbf4.com",
-    "ID zona": 11735614
-}
-diri.lary = ""
-importScripts('https://3nbf4.com/act/files/service-worker.min.js?r=sw')
